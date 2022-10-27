@@ -17,7 +17,7 @@ dependencies:
   meta: ^1.4.0
   riverpod:
     git:
-      url: https://github.com/rrousselGit/riverpod.git
+      url: https://github.com/Robert-Brunhage/riverpod.git
   state_notifier: ^0.7.0
 
 dev_dependencies:
