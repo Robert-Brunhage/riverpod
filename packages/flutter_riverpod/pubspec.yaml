@@ -18,6 +18,8 @@ dependencies:
   riverpod:
     git:
       url: https://github.com/Robert-Brunhage/riverpod.git
+      ref: temp
+      path: packages/riverpod
   state_notifier: ^0.7.0
 
 dev_dependencies:
